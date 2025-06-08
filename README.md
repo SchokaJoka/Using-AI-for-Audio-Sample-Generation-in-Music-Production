@@ -119,3 +119,4 @@ Contributions are welcome! If you have suggestions for improvements, new feature
 * **stackadoc** for `stable-audio-open-1.0`
 * **OpenAI** for `gpt-4o`
 * **Replicate** for providing easy access to these powerful models.
+* **Guillaume Massol** as my lecturer at the Module "COMPP"
