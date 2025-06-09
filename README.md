@@ -2,29 +2,6 @@
 
 This repository explores the exciting capabilities of artificial intelligence in generating various audio samples for music production, including fixed-BPM loops, full instrumental tracks, and short drum/instrument oneshots. By leveraging powerful text-to-audio AI models, this project aims to demonstrate how producers can quickly create unique and tailored sonic elements from simple text descriptions.
 
-## 📇 Table of Contents
-
-1.  [Introduction](#introduction)
-2.  [Why This Project?](#why-this-project)
-3.  [Key Features](#key-features)
-4.  [Tools Used](#tools-used)
-5.  [How It Works (Overall Approach)](#how-it-works-overall-approach)
-6.  [Project Structure](#project-structure)
-    * [MusicGen-Looper (Fixed-BPM Loops)](#musicgen-looper-fixed-bpm-loops)
-    * [Flux Music (Instrumental Tracks)](#flux-music-instrumental-tracks)
-    * [Oneshot Maker (Drum & Instrument Oneshots)](#oneshot-maker-drum--instrument-oneshots)
-7.  [Getting Started](#getting-started)
-    * [Prerequisites](#prerequisites)
-    * [Installation](#installation)
-    * [Setting up your Replicate API Token](#setting-up-your-replicate-api-token)
-8.  [Difficulties Encountered](#difficulties-encountered)
-9.  [What Was Learned](#what-was-learned)
-10. [Next Steps](#next-steps)
-11. [Copyright & Usage Terms](#copyright--usage-terms)
-12. [License](#license)
-13. [Contributing](#contributing)
-14. [Acknowledgements](#acknowledgements)
-
 ## ✨ Introduction
 
 In modern music production, access to diverse and unique audio samples is crucial. This project showcases how AI models can be integrated into the workflow to generate custom audio content, significantly speeding up the creative process. From crafting perfectly synchronized loops to producing unique drum sounds or full instrumental ideas, AI offers a new frontier for sonic exploration.
